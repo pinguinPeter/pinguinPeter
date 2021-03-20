@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @pinguinPeter
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+pinguinPeter/pinguinPeter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+  Hi, I'm @pinguinPeter; I'm interested in programming; I hope i can do something  in industries of program;
+sometimes i fell that it is very difficult . i hope someone can help me , let me know more about program .
+and i hope someone grow up with me .  I hope you are my friend and i am your friend too. best wishes to you.
